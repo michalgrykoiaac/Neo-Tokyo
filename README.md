@@ -16,3 +16,7 @@ Each district had specific building categories which were counted by centroid an
 The final city generation was accomplished through the combined cluster building zones and network so that we allocate a category to each section and overlay with the network.
 
 ![neoTokyo cover](https://user-images.githubusercontent.com/97453175/177810834-90c9835a-11bd-4387-97a0-d0fb14a184ec.jpg)
+
+NeoTokyo is a project of IAAC, Institute for Advanced Architecture of Catalonia developed in the Master of Advanced Computation in Architecture and Design 2021/22 by STUDENTS: MICHAL GRYKO + TAKEAKI SAKAKIBARA SENIOR FACULTY: DAVID ANDRES LEON FACULTY ASSISTANT: DAI KANDIL
+
+Blog: https://www.iaacblog.com/programs/neotokyo-geometric-optimization/
